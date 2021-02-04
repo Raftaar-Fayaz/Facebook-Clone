@@ -12,6 +12,13 @@ React JS, Google Firebase[Authentication, Hosting, Cloud Firestore(Database)] & 
 <p align="center">
  <img src="https://i.ibb.co/W6cs1sV/fb2.png">
  </p>
+ 
+ ### SCREENSHOTS
+
+<p align="center">
+<img src="https://i.ibb.co/PZvgsQg/fb1.png" alt="fb1"><span>  -  </span>
+<img src="https://i.ibb.co/0V0kZy3/fb3.png" alt="fb2"><span>  -  </span>
+ </p>
 
 <br/>
 
